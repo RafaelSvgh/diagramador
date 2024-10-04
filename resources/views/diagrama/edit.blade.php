@@ -25,7 +25,7 @@
              transports: ["websocket"]
          }); */
 
-        const socket = io("https://soketio-diagramador-production.up.railway.app/", {
+        const socket = io("https://diagrama-onyry.ondigitalocean.app/", {
             transports: ["websocket"]
         });
 
